@@ -1,27 +1,27 @@
-.controller.ds4 {
+.controller.edit{
   background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/base.svgz) !important;
 }
 
-.ds4 .stick {
+.edit .sticks {
   background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/sticks.svgz) !important;
 }
 
-.ds4 .face {
+.edit .stick {
   background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/dpad.svgz) !important;
 }
 
-.ds4 .bumper {
+.edit .bumper {
     background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/bumper.svgz) !important;
 }
 
-.ds4 .trigger {
+.edit .trigger {
     background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/triggers.svgz) !important;
 }
 
-.ds4 .touchpad.pressed {
+.edit .touchpad.pressed {
     background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/touchpad.svgz) !important;
 }
 
-.ds4 .back, .ds4 .start {
+.edit .back, .edit .start {
     background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/start.svgz) !important;
 }
